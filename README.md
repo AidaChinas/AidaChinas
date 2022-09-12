@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AidaChinas/aidachinas.github.io](https://github.com/AidaChinas/aidachinas.github.io)
 
+- 📫 How to reach me **aida.sanic@gmail.com**
+
 - ⚡ Fun fact **I'm an drummer 🤪**
 
 <h3 align="left">Connect with me:</h3>

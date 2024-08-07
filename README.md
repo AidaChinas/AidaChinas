@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Aida Chiñas</h1>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aidachinas" alt="aidachinas" /></a> </p>
+
 
 - 🔭 I’m currently working on **Personal Projects**
 
